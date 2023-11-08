@@ -1,1 +1,1 @@
-# AD951-automatic-frequency-correction-vs-GPS-timebase
+# AD9851-automatic-frequency-correction-vs-GPS-timebase
